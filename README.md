@@ -1,6 +1,7 @@
 # palilabiologywebsite
 
-Greetings and Welcome!
+<img src="palila.gif">
+<h2>Greetings and Welcome!<h2>
 
 Here are all of the HTML and CSS documents in my Palila website for my Sophomore Biology class.
 
