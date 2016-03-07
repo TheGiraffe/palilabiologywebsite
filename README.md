@@ -3,7 +3,7 @@
 <img src="palila.gif">
 <h2>Greetings and Welcome!<h2>
 
-Here are all of the HTML and CSS documents in my Palila website for my Sophomore Biology class.
+<br>Here are all of the HTML and CSS documents in my Palila website for my Sophomore Biology class.
 
 It's a very simple/bare-bones website but it would be an excellent project for anyone that's a beginner at HTML or CSS.
 
@@ -13,4 +13,4 @@ Sincerely,
 
 Sophia
 
-http://sophiaisfabulous.com/thedailypalila.html
+http://sophiaisfabulous.com/thedailypalila.html</br>
